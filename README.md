@@ -33,9 +33,9 @@
 
 ## Apps
 
-- **AI-powered Personal Assistance App** (June 2023 - October 2023) [GitHub](https://github.com/SanhyewNg/Personal-Assistance-App) [App](https://web-sanai.onrender.com) [API](https://api-sanai.onrender.com/docs)
-- **Resume Analysis and Tailoring System** (April 2024 - May 2024) [GitHub](https://github.com/SanhyewNg/ResumeAnaTailor) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resanatailor.streamlit.app)
-- **Live Interview Assistant** (March 2024 - April 2024) [GitHub](https://github.com/SanhyewNg/Live-Interview-Assistant)
+- **AI-powered Personal Assistance App** (June 2023 - October 2023) [App](https://web-sanai.onrender.com) [API](https://api-sanai.onrender.com/docs)
+- **Resume Analysis and Tailoring System** (April 2024 - May 2024) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resanatailor.streamlit.app)
+- **Live Interview Assistant** (March 2024 - April 2024) 
 
 ## AI Projects History
 
