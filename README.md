@@ -46,7 +46,7 @@
 - **Virtual Try-On Engine** (November 2021 - December 2021) 
 - **Soccer Juggling Counter** (January 2022- March 2022) 
 - **Crack Detection** (May 2024 - July 2024) 
-- ** Horse Video Auto Clipper** (Dec 2025 - Jan 2026)
+- **Horse Video Auto Clipper** (Dec 2025 - Jan 2026) [GitHub](https://github.com/OceanStarHit/HorseVideoAutoClipper)
 
 ### B. _Business Intelligence Projects_
 
